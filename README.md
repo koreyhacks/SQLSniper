@@ -1,4 +1,4 @@
-# SQLSniper
+# SQLSniper (to be used after [Injectionary](https://github.com/koreyhacks/Injectionary) attack)
 
 SQLSniper is an advanced SQL injection tool designed for precision targeting and exploitation of SQL injection vulnerabilities. With a focus on ethical hacking and penetration testing, SQLSniper provides security professionals with a powerful arsenal for identifying and extracting data from vulnerable applications.
 
